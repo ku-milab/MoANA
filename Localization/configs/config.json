@@ -1,0 +1,38 @@
+{
+"project_name": "MoANA",
+
+"n_gpu": 1,
+"devices": "0",
+"parallel": true,
+"num_workers": 8,
+
+
+"dataset_name": "ILSVRC",
+"resize_size": 256,
+"crop_size": 224,
+
+"mode": "train",
+"model_type": "moana",
+"batch_size": 256,
+"epoch": 20,
+"backbone_lr": 0.002,
+"lr": 0.02,
+"lr_gamma": 0.1,
+"lr_milestones": [5, 10, 15],
+"momentum": 0.9,
+"weight_decay": 0.0005,
+"iou_threshold_list": [30, 50, 70],
+"cam_curve_interval": 0.01,
+"multi_contour_eval": false,
+"multi_iou_eval": true,
+"proxy": false,
+"layer_optim": true,
+
+"model_save_path": "./save",
+"metadata_path": "./metadata",
+"mask_path":"./dataset",
+"dataset_path": "./dataset",
+"cam_path":"./dataset/CAM/val",
+"cam_test_path":"./dataset/CAM/test"
+
+}
