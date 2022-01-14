@@ -22,12 +22,6 @@ conda env export > environment.yaml
 conda activate research
 ```
 
-## Usage
-For training:
-
-```
-```
-
 ## Dataset
 
 - [ILSVRC](http://www.image-net.org/): 11,788 images from 200 bird categories, divided into 5,994 images for training and 5,794 images for evaluation.
