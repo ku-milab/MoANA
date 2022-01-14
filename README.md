@@ -1,9 +1,9 @@
 ## MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation  
-<p align="center"><img width="40%" src="figure1.png" /></p>
+<p align="center"><img width="40%" src="figure.png" /></p>
 
 This repository provides the official PyTorch implementation of the following paper:
 > **MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation**  
-> [Junghyo Sohn](https://github.com/JunghyoSohn)<sup>1</sup>, Eunjin Jeon<sup>2</sup>, [Wonsik Jung](https://github.com/ssikjeong1/)<sup>2</sup>, Eunsong Kang<sup>2</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1,2</sup>
+> [Junghyo Sohn](https://github.com/JunghyoSohn)<sup>1</sup>, Eunjin Jeon<sup>2</sup>, [Wonsik Jung](https://github.com/ssikjeong1/)<sup>2</sup>, Eunsong Kang<sup>2</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1,2</sup>  
 > <sup>1</sup> Department of Artificial Intelligence, Korea University, Seoul 02841, Republic of Korea  
 > <sup>2</sup> Department of Brain and Cognitive Engineering, Korea University, Seoul 02841, Republic of Korea  
 > Under review IEEE Transactions on Image Processing
