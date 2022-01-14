@@ -1,4 +1,4 @@
-## MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation  
+# MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation  
 Junghyo Sohn<sup>1</sup>, Eunjin Jeon<sup>2</sup>, Wonsik Jung<sup>2</sup>, Eunsong Kang<sup>2</sup>, Heung-Il Suk<sup>1,2</sup>
 
 <sup>1</sup> Department of Artificial Intelligence, Korea University, Seoul 02841, Republic of Korea  
