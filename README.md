@@ -30,8 +30,9 @@ conda activate moana
 
 ## Code Reference
 
-- Choe et al., [Evaluating Weakly Supervised Object Localization Methods Right](https://github.com/clovaai/wsolevaluation).
-- DeepLab v2, [PyTorch implementation of DeepLab v2 with a ResNet 101 backbone](https://github.com/kazuto1011/deeplab-pytorch). 
+- Choe _et al_., [Evaluating Weakly Supervised Object Localization Methods Right](https://github.com/clovaai/wsolevaluation).
+- DeepLab v2, [PyTorch implementation of DeepLab v2 with a ResNet 101 backbone](https://github.com/kazuto1011/deeplab-pytorch).
+- Zhang _et al_., [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://github.com/dongzhang89/CONTA).
 
 ## Acknowledge
 
