@@ -11,10 +11,10 @@ Although recent advances in deep learning have led to an acceleration in the imp
 (b) Comparison of CAM and our MoANA with respect to an activation map (left) and a localization (right). In the localization, red and green boxes denote the ground-truth and predicted bounding boxes, respectively. The green-masked region indicates the activation map after applying a threshold.
 
 ## Requirements
-'''
+```
 conda env export > environment.yaml
 conda activate research
-'''
+```
 
 ## Dataset
 
