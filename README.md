@@ -1,5 +1,5 @@
 ## MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation  
-<p align="center"><img width="100%" src="figure.png" /></p>
+<p align="center"><img width="90%" src="figure.png" /></p>
 
 This repository provides the official PyTorch implementation of the following paper:
 > **MoANA: Module of Axis-based Nexus Attention for Weakly Supervised Object Localization and Semantic Segmentation**  
