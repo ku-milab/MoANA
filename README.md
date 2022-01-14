@@ -14,12 +14,12 @@ This repository provides the official PyTorch implementation of the following pa
 ## Dependencies
 
 - [Python 3.6+](https://www.continuum.io/downloads)
-- [PyTorch 1.0+](http://pytorch.org/)
+- [PyTorch 1.6.0+](http://pytorch.org/)
 
 ## Requirements
 ```
-conda env export > environment.yaml
-conda activate research
+conda env create -name moana -f environment.yaml
+conda activate moana
 ```
 
 ## Dataset
