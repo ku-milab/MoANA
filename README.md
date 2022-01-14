@@ -30,7 +30,8 @@ conda activate research
 
 ## Code Reference
 
-Choe et al., [Evaluating Weakly Supervised Object Localization Methods Right](https://github.com/clovaai/wsolevaluation)
+- Choe et al., [Evaluating Weakly Supervised Object Localization Methods Right](https://github.com/clovaai/wsolevaluation)
+- 
 
 ## Acknowledge
 
